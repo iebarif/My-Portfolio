@@ -1,0 +1,5 @@
+{
+    "livePreview.defaultPreviewPath": "/index.html",
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.mouseWheelZoom": true
+}
